@@ -1,0 +1,4 @@
+add_numbers(num1, num2): Returns the sum of two numbers.
+is_even(number): Returns True if the number is even, otherwise False.
+reverse_string(text): Returns the reversed string. count_vowels(text): Returns the count of vowels in the string. calculate_factorial(n): Returns the factorial of a non-negative integer. apply_decorator(func): Decorates a function to print "Decorator Applied" before execution. sort_by_age(list_of_tuples): Sorts a list of tuples by age. merge_dicts(dict1, dict2): Merges two dictionaries, summing values for common keys. 
+Car Class: Defines a car with attributes make, model, and year, and a method display_info(). Notes Ensure that all functions and the class are implemented as described in the coding assessment. The example usage of the Car class can be modified or expanded as needed. For further customization or additional functionality, modify the script accordingly.
